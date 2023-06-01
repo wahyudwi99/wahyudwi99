@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Wahyu</h1>
 <h3 align="center">A Professional Data Scientist from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyudwi99&label=Profile%20views&color=0e75b6&style=flat" alt="wahyudwi99" /> </p>
-<img align="right" width ="450" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-207.jpg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyudwi99&label=Profile%20views&color=e4992f&style=flat-square" alt="wahyudwi99" /> </p>
+<img align="right" width ="400" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-207.jpg">
 
 ### About Me
-- 🔭 Currently working on **Information and Technology Company**
-- 🤝 Looking for collaboration on **Data analytics and machine learning projects**
-- 📫 Reach me with **nugrahawd9@gmail.com**
-- 📄 My Resume [Resume](https://drive.google.com/file/d/1OJ56iAsg7Rf1ZEmFC5Z91LAq7Kq5wkX5/view?usp=sharing)
+- 🔭 Currently working at **Information and Technology Industry**
+- 🤝 Looking for collaboration on **Data Analytics and Machine Learning Projects**
+- 📫 Contact me to **nugrahawd9@gmail.com**
+- 📄 Feel free to check my **[resume](https://drive.google.com/file/d/1OJ56iAsg7Rf1ZEmFC5Z91LAq7Kq5wkX5/view?usp=sharing)**
 
 ### Data Science and Machine Learning Projects
 - [Credit Risk Prediction](https://github.com/wahyudwi99/Final-Project-ID-X-Partners-Internship-Program)
