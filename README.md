@@ -7,7 +7,7 @@
 ### About Me
 - 🔭 Currently working at **Information and Technology Industry**
 - 🤝 Looking for collaboration on **Data Analytics and Machine Learning Projects**
-- 📫 Contact me to **nugrahawd9@gmail.com**
+- 📫 Contact me through **nugrahawd9@gmail.com**
 - 📄 Feel free to check my **[resume](https://drive.google.com/file/d/1OJ56iAsg7Rf1ZEmFC5Z91LAq7Kq5wkX5/view?usp=sharing)**
 
 ### Data Science and Machine Learning Projects
