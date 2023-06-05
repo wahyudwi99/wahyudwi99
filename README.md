@@ -11,6 +11,7 @@
 - 📄 Feel free to check my **[resume](https://drive.google.com/file/d/1OJ56iAsg7Rf1ZEmFC5Z91LAq7Kq5wkX5/view?usp=sharing)**
 
 ### Data Science and Machine Learning Projects
+- [Citi Bike Forecasting](https://github.com/wahyudwi99/Timeseries-Forecasting-of-CitiBike-User/tree/main)
 - [Credit Risk Prediction](https://github.com/wahyudwi99/Final-Project-ID-X-Partners-Internship-Program)
 - [Flower Classification](https://github.com/wahyudwi99/Flower-Classification)
 - [Milling Temperature Prediction](https://github.com/wahyudwi99/Milling-Temperature-Prediction-Using-Machine-Learning)
